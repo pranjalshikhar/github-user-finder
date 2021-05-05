@@ -30,4 +30,4 @@ https://user-finder-github.netlify.app/
   # Use Live Server to view it on your machine
 ```
 <br>
-![Show](showcase.jpg)
+<img src="./img/showcase.jpg">
