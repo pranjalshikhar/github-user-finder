@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./img/gitfinder.svg">
+  <img src="./img/gitfinder.png">
 </h1>
 
 <br><br>
