@@ -22,10 +22,10 @@ https://user-finder-github.netlify.app/
 ## :gear: Installation
 ```bash
   # Clone the repositorie
-  $ git clone https://github.com/gabriuda/gitfinder
+  $ git clone https://github.com/pranjalshikhar/github-user-finder
 
   # Get in
-  $ cd gitfinder
+  $ cd github-user-finder
 
   # Use Live Server to view it on your machine
 ```
