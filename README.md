@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./img/gitfinder.png">
+  <img src="https://raw.githubusercontent.com/pranjalshikhar/github-user-finder/main/Snapshot.jpg">
 </h1>
 
 <br><br>
@@ -30,4 +30,4 @@ https://user-finder-github.netlify.app/
   # Use Live Server to view it on your machine
 ```
 <br>
-<img src="./img/showcase.jpg">
+<!-- <img src="./img/showcase.jpg"> -->
